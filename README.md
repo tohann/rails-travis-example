@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tohann/rails-travis-example.svg?branch=master)](https://travis-ci.org/tohann/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline-example/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline-example/rails-travis-example)
+[![Build Status](https://travis-ci.org/tohann/rails-travis-example.svg?branch=master)](https://travis-ci.org/tohann/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
 
 # Rails Travis Example
 
